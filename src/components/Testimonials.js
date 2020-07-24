@@ -11,14 +11,14 @@ function Testimonials() {
                 <p>Subscribe Sokraacademy Youtube Channel to watch videos on academic Subjects,
                       Software Development and Stories 
                 </p>
-                <img src="./img/avataaars.svg"></img>
+                <img src="./sokra-web/img/avataaars.svg" alt="avtaar"></img>
                 <p className="user-details"><b>Rajesh</b><br />Co-founder at xyz</p>
                 </div>
                 <div className="col-md-5 testimonials">
                 <p>Subscribe Sokraacademy Youtube Channel to watch videos on academic Subjects,
                       Software Development and Stories 
                 </p>
-                <img src="./img/avataaars.svg"></img>
+                <img src="./sokra-web/img/avataaars.svg" alt="avtaar"></img>
                 <p className="user-details"><b>Akash</b><br />Counceler at abc</p>
                 </div>
             </div>
