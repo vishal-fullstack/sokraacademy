@@ -23,7 +23,7 @@ function AboutUs() {
                 </ul>                     
               </div>
               <div className="col-md-6">
-                  <img src="./sokraacademy/img/degree.png" className="img-fluid" alt="degree"></img>
+                  <img src="./img/degree.png" className="img-fluid" alt="degree"></img>
               </div>
           </div>
       </div>
