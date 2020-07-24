@@ -5,7 +5,7 @@ function Navbar() {
   return (
     <section className="nav-bar">
         <nav className="navbar navbar-expand-lg navbar-light">
-        <a className="navbar-brand" href="/home"><img src="./sokra-web/img/sokralogo.png" alt="logo"/></a>
+        <a className="navbar-brand" href="/home"><img src="./sokraacademy/img/sokralogo.png" alt="logo"/></a>
         <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
             <span className="navbar-toggler-icon">
             <i className="fa fa-bars"></i>

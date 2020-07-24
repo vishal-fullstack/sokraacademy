@@ -4,11 +4,11 @@ import React from 'react';
 function Footer() {
   return (
    <section id="footer">
-       <img src="./sokra-web/img/wave2.png" className="footer-img" alt="wave"></img>
+       <img src="./sokraacademy/img/wave2.png" className="footer-img" alt="wave"></img>
        <div className="container">
            <div className="row">
                <div className="col-md-4 footer-box">
-               <img src="./sokra-web/img/sokralogo.png" alt="logo"/>
+               <img src="./sokraacademy/img/sokralogo.png" alt="logo"/>
                <p>Subscribe Sokraacademy Youtube Channel to watch videos on academic Subjects,
                       Software Development and Stories </p>
                </div>
