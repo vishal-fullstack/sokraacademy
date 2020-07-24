@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "15aecc4b6fcee2818860504f1ca64e7b",
+    "revision": "16e428ae5c1c67bc3a9f9419c1106420",
     "url": "/sokraacademy/index.html"
   },
   {
-    "revision": "428aa08d0436e4d59d29",
+    "revision": "6375597a470a7f54a675",
     "url": "/sokraacademy/static/css/main.2e092192.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/sokraacademy/static/js/2.3d702e91.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "428aa08d0436e4d59d29",
-    "url": "/sokraacademy/static/js/main.97e3c83f.chunk.js"
+    "revision": "6375597a470a7f54a675",
+    "url": "/sokraacademy/static/js/main.1980741a.chunk.js"
   },
   {
     "revision": "b738c272aeb9e6fe666a",
