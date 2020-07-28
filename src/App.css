@@ -229,8 +229,23 @@ hr{
   text-align: center;
 }
 .terms a{
-  color: #fff;
+  box-shadow: none !important;
+  border: none;
+  border-radius: 0;
+  margin-top: 30px;
+  background-image: linear-gradient(to right ,#a517ba,#5f1782);
 }
+.modal-header{
+  width:100%;
+  background-image: linear-gradient(to right ,#a517ba,#5f1782);
+}
+.modal-body{
+  color:black;
+}
+.modal-dialog{
+  width:100%;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
