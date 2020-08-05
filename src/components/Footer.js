@@ -1,7 +1,15 @@
-import React from 'react';
+import React ,{useEffect} from 'react';
 
 
-function Footer() {
+function Footer(props) {
+    useEffect(()=>{
+        const url =window.location.href;
+        const check =url.slice(url.length-5,url.length);
+
+        if(check === "terms") {
+            document.getElementById("showModal").click();
+        }
+    },[])
   return (
    <section id="footer">
        <img src="./img/wave2.png" className="footer-img" alt="wave"></img>
@@ -25,10 +33,10 @@ function Footer() {
                </div>
            </div>
            <hr />
-           <p className="terms"> <a href="#" className="btn btn-primary" data-toggle="modal" data-target="#exampleModal">Terms and Conditions</a></p>
+           <p className="terms"> <a href="#" id="showModal" className="btn btn-primary" data-toggle="modal" data-target="#exampleModal">Terms and Conditions</a></p>
 
      
-            <div className="modal fade bd-example-modal-lg" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+            <div className="modal fade bd-example-modal-lg" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true" show={false}>
                 <div className="modal-dialog modal-lg" role="document">
                     <div className="modal-content">
                     <div className="modal-header">
