@@ -1,4 +1,5 @@
 import React from 'react';
+import { BrowserRouter as Router, Route } from "react-router-dom";
 import Navbar from './components/Navbar';
 import Banner from "./components/Banner";
 import AboutUs from "./components/AboutUs";
@@ -9,7 +10,12 @@ import './App.css';
 
 function App() {
   return (
-    <div >
+  <>
+   <Router>
+    <Route exact path="/" component={App} />
+    <Route exact path="/terms" component={App} />
+  </Router>
+  <div>
       <Navbar />
       <Banner />
       <AboutUs />
@@ -17,6 +23,7 @@ function App() {
       <SocialMedia />
       <Footer />
     </div>
+    </>
   );
 }
 
