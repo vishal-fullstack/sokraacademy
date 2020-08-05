@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/sokraacademy/static/css/main.7205c94b.chunk.css",
-    "main.js": "/sokraacademy/static/js/main.4b51de6c.chunk.js",
-    "main.js.map": "/sokraacademy/static/js/main.4b51de6c.chunk.js.map",
+    "main.js": "/sokraacademy/static/js/main.ca92c3ca.chunk.js",
+    "main.js.map": "/sokraacademy/static/js/main.ca92c3ca.chunk.js.map",
     "runtime-main.js": "/sokraacademy/static/js/runtime-main.447083e8.js",
     "runtime-main.js.map": "/sokraacademy/static/js/runtime-main.447083e8.js.map",
     "static/js/2.721c2af5.chunk.js": "/sokraacademy/static/js/2.721c2af5.chunk.js",
     "static/js/2.721c2af5.chunk.js.map": "/sokraacademy/static/js/2.721c2af5.chunk.js.map",
     "index.html": "/sokraacademy/index.html",
-    "precache-manifest.3103f7159ecd969154acb6867a3fc85c.js": "/sokraacademy/precache-manifest.3103f7159ecd969154acb6867a3fc85c.js",
+    "precache-manifest.1a9b7e5f3c8f077948c2f4025c5e6d51.js": "/sokraacademy/precache-manifest.1a9b7e5f3c8f077948c2f4025c5e6d51.js",
     "service-worker.js": "/sokraacademy/service-worker.js",
     "static/css/main.7205c94b.chunk.css.map": "/sokraacademy/static/css/main.7205c94b.chunk.css.map",
     "static/js/2.721c2af5.chunk.js.LICENSE.txt": "/sokraacademy/static/js/2.721c2af5.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.447083e8.js",
     "static/js/2.721c2af5.chunk.js",
     "static/css/main.7205c94b.chunk.css",
-    "static/js/main.4b51de6c.chunk.js"
+    "static/js/main.ca92c3ca.chunk.js"
   ]
 }
